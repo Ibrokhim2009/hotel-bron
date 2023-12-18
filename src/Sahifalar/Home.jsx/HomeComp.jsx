@@ -8,6 +8,7 @@ function HomeComp({ item }) {
             <h2>{item?.Sshahar}ga</h2>
             <h4>{item?.data}</h4>
         </div>
+            
     )
 }
 
